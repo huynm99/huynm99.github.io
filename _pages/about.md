@@ -8,7 +8,7 @@ redirect_from:
   - /wordpress/index.html
 ---
 
-My full name is Huy Minh Nguyen, and I am currently working at [VinAI Research, Vietnam](http://www.vinai.io) as an AI Reseach Resident under the supervision of [Prof. Nhat Ho](https://nhatptnk8912.github.io/). Before joining VinAI Research, I studied at Faculty of Mathematics and Computer Science, Vietnam National University Ho Chi Minh City, University of Science and then graduated as a valedictorian of this university with a GPA of 9.75/10.0 in 2020. 
+My full name is Huy Minh Nguyen, and I am currently working at [VinAI Research, Vietnam](http://www.vinai.io) as an AI Reseach Resident under the supervision of [Prof. Nhat Ho](https://nhatptnk8912.github.io/). Before joining VinAI Research, I studied at Faculty of Mathematics and Computer Science, Vietnam National University Ho Chi Minh City, University of Science and then graduated as a valedictorian of this university with a GPA of 3.9/4.0 (9.75/10.0) in 2020. 
 
 Email: minhhuy081199@gmail.com
 ## Research Interests 
