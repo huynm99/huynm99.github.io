@@ -4,10 +4,10 @@ category: articles
 permalink: "/publications/EPEM/"
 venue: "Information Sciences Journal (IF: 5.9)"
 date: 23-09-2020
-link: https://arxiv.org/abs/2009.11360
+link: https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346
 ---
 
-[comment]: <> (<a href="https://arxiv.org/pdf/2009.11360.pdf">Arxiv</a>.)
+[comment]: <> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346">Elsevier</a>.)
 Thu Nguyen, Duy H. M. Nguyen, <b>Huy Nguyen</b>, Binh T. Nguyen, Bruce A. Wade
 
 Abstract: The problem of monotone missing data has been broadly studied during the last two decades and has
