@@ -14,6 +14,7 @@ Email: minhhuy081199@gmail.com
 ## Research Interests 
 My recent research focuses mostly on Statistics and Machine Learning theory, particularly Optimal Transport. 
 ## Selected Publications
+**\* indicates equal contribution.**<br/>
 ### On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity
 *Khang Le\*, __Huy Nguyen\*__, Tung Pham, Nhat Ho*<br/>
 Under review  [[arXiv](https://arxiv.org/abs/2108.07992)]
@@ -23,5 +24,5 @@ Under review  [[arXiv](https://arxiv.org/abs/2102.06857)]
 ### EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data
 *Thu Nguyen, Duy H. M. Nguyen, __Huy Nguyen__, Binh T. Nguyen, Bruce A. Wade*<br/>
 Information Sciences Journal (IF: 5.9) [[Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346)]<br/>
-\* indicates equal contribution.
+
 

@@ -8,7 +8,7 @@ link: https://arxiv.org/abs/2108.07992
 ---
 
 [comment]: <> (<a href="https://arxiv.org/pdf/2108.07992.pdf">Arxiv</a>.)
-Khang Le\* <b>Huy Nguyen\*</b>, Tung Pham, Nhat Ho
+Khang Le\*, <b>Huy Nguyen\*</b>, Tung Pham, Nhat Ho
 
 Abstract: We study the multi-marginal partial optimal transport (POT) problem between m discrete
 (unbalanced) measures with at most n supports. We first prove that we can obtain two equivalence
