@@ -14,7 +14,7 @@ Email: minhhuy081199@gmail.com
 ## Research Interests 
 My recent research focuses mostly on Statistics and Machine Learning theory, particularly Optimal Transport. 
 ## Selected Publications
-**\* indicates equal contribution.**<br/>
+<span style="color:red">some (**\* = equal contribution.**) text</span> <br/>
 ### On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity
 *Khang Le\*, __Huy Nguyen\*__, Tung Pham, Nhat Ho*<br/>
 Under review  [[arXiv](https://arxiv.org/abs/2108.07992)]
