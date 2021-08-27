@@ -8,7 +8,7 @@ link: https://arxiv.org/abs/2108.10961
 ---
 
 [comment]: <> (<a href="https://arxiv.org/pdf/2108.10961.pdf">Arxiv</a>.)
-Khang Le\*, Dung Le\*, <b>Huy Nguyen\*</b>, Tung Pham, Nhat Ho
+Khang Le\*, Dung Le\*, <b>Huy Nguyen\*</b>, Dat Do, Tung Pham, Nhat Ho
 
 Abstract: We study the entropic Gromov-Wasserstein and its unbalanced version between (unbalanced)
 Gaussian distributions with different dimensions. When the metric is the inner product, which
