@@ -15,6 +15,9 @@ Email: minhhuy081199@gmail.com
 My recent research focuses mostly on Statistics and Machine Learning theory, particularly Optimal Transport. 
 ## Selected Publications
 <span style="color:red"> (**\*) = equal contribution.** </span> <br/>
+### Entropic Gromov-Wasserstein between Gaussian Distributions
+*Khang Le\*, Dung Le\*, __Huy Nguyen\*__, Tung Pham, Nhat Ho*<br/>
+Under review  [[arXiv](https://arxiv.org/abs/2108.10961)]
 ### On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity
 *Khang Le\*, __Huy Nguyen\*__, Tung Pham, Nhat Ho*<br/>
 Under review  [[arXiv](https://arxiv.org/abs/2108.07992)]
