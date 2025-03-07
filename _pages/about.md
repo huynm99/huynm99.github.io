@@ -20,8 +20,9 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
 ## Selected Publications on the Theory of Mixture of Experts
-**[T.1]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
-*__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
+
+**[T.1]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213). Under review (Part of it has been in the Proceedings of the ICML, 2024) <br/>
+*__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
 **[T.2]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
@@ -29,8 +30,8 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 **[T.3]** [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). Under review <br/>
 *__Huy Nguyen\*__, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.4]** [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/abs/2402.02952). Proceedings of the ICML, 2024 <br/>
-*__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
+**[T.4]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
+*__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
 
 **[T.5]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
@@ -120,5 +121,5 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-- Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2024), AISTATS (2022-2025), ICLR (2024-2025), and AAAI (2025).
+- Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2025), AISTATS (2022-2025), ICLR (2024-2025), and AAAI (2025).
 - Journal Reviewer: Electronic Journal of Statistics, Transactions on Machine Learning Research.
