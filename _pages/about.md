@@ -13,6 +13,8 @@ redirect_from:
    
 Welcome to my homepage! I'm Huy Nguyen, a third-year Ph.D candidate at the [Department of Statistics and Data Sciences, The University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). In Summer 2024, I worked as a research intern at [Microsoft AI](https://www.microsoft.com/en-us/ai). 
 
+I co-organize the Statistical Machine Learning seminar at UT Austin ([StatML@UT](https://sites.google.com/view/statmlut/people?authuser=0)).
+
 Email: huynm@utexas.edu
 ## Research Interests 
 My current research focuses on theoretical foundations for the Mixture-of-Experts models. In particular, I investigate the effects of various gating functions (namely the softmax gate, the Top-K sparse softmax gate, the dense-to-sparse gate, the sigmoid gate, etc) on the convergence of expert estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions and characterize expert networks which help improve the efficiency and scalability of the Mixture-of-Experts applications, including Large Language Models, Multi-modal Learning and Parameter-efficient Fine-Tuning. Additionally, I am also interested in Optimal Transport theory.
