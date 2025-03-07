@@ -12,28 +12,34 @@ redirect_from:
 
 (*) denotes equal contribution, (**) denotes equal advising
 
-## Preprints
 
-**[P.7]** [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective
+## Journal Submissions
+
+**[JS.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213) *Under review*. <br/>
+<b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*, 
+
+**[JS.1]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
+<b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
+
+## Conference Submissions
+
+**[CS.6]** [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective
 ](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
 <b>Huy Nguyen\*</b>, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[P.6]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). *Under review* <br/>
+**[CS.5]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). *Under review* <br/>
 Tuan Truong\*, Chau Nguyen\*, <b>Huy Nguyen\*</b>, Minh Le, Trung Le, Nhat Ho
 
-**[P.5]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). *Under review* <br/>
+**[CS.4]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). *Under review* <br/>
 Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Nhat Ho
 
-**[P.4]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). *Under review* <br/>
+**[CS.3]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). *Under review* <br/>
 Nghiem T. Diep\*, <b>Huy Nguyen\*</b>, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho
 
-**[P.3]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
-<b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
-
-**[P.2]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
+**[CS.2]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
 Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
-**[P.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
+**[CS.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
 Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
 
 ## Conference Publications
