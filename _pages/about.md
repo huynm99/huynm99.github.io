@@ -73,17 +73,17 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 **[A.3]** [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200). Proceedings of the ICLR, 2025 <br/>
 *Minh Le\*, Chau Nguyen\*, __Huy Nguyen\*__, Quyen Tran, Trung Le, Nhat Ho*<br/>
 
-**[A.4]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526). Under review <br/>
-*Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
-
-**[A.5]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). Under review <br/>
+**[A.4]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). Under review <br/>
 *Minh Le\*, Anh Nguyen\*, __Huy Nguyen__, Chau Nguyen, Nhat Ho*<br/>
 
-**[A.6]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). Under review <br/>
+**[A.5]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). Proceedings of the ICML, 2025 <br/>
 *Tuan Truong\*, Chau Nguyen\*, __Huy Nguyen\*__, Minh Le, Trung Le, Nhat Ho*<br/>
 
-**[A.7]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). Under review <br/>
+**[A.6]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). Proceedings of the ICML, 2025 <br/>
 *Nghiem T. Diep\*, __Huy Nguyen\*__, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho*<br/>
+
+**[A.7]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526). Under review <br/>
+*Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
 
 ## Selected Publications on Optimal Transport
 **[O.1]** [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961). Proceedings of the ICML, 2022 <br/>
@@ -100,6 +100,7 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
  
 
 ## Recent News
+- **[May 2025]** Two papers on applications of MoE in parameter-efficient fine-tuning are accepted to ICML 2025 ([[1](https://arxiv.org/abs/2502.03044)], [[2](https://arxiv.org/abs/2502.03029)]).
 - **[Jan 2025]** Three papers on Mixture of Experts are accepted to ICLR 2025 ([[1](https://arxiv.org/abs/2405.14131)], [[2](https://arxiv.org/abs/2410.02200)]) and AISTATS 2025 ([[3](https://arxiv.org/abs/2410.12258)]).
 - **[Dec 2024]** I was recognized as a top reviewer at NeurIPS 2024. I was also promoted to PhD candidate at UT Austin.
 - **[Oct 2024]** Four new papers on Mixture of Experts are out, [[1](https://arxiv.org/abs/2410.02935)], [[2](https://arxiv.org/abs/2410.02200)], [[3](https://arxiv.org/abs/2410.11222)] and [[4](https://arxiv.org/abs/2410.12258)].
@@ -124,4 +125,4 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 
 ## Professional Services
 - Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2025), AISTATS (2022-2025), ICLR (2024-2025), and AAAI (2025).
-- Journal Reviewer: Electronic Journal of Statistics, Transactions on Machine Learning Research.
+- Journal Reviewer: Journal of Machine Learning Research, Electronic Journal of Statistics, Transactions on Machine Learning Research.
