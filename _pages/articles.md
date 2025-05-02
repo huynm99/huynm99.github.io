@@ -38,10 +38,10 @@ Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sar
 
 ## Conference Publications
 
-**[CS.21]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). *Proceedings of the ICML, 2025* <br/>
+**[C.21]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). *Proceedings of the ICML, 2025* <br/>
 Tuan Truong\*, Chau Nguyen\*, <b>Huy Nguyen\*</b>, Minh Le, Trung Le, Nhat Ho
 
-**[CS.20]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). *Proceedings of the ICML, 2025* <br/>
+**[C.20]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). *Proceedings of the ICML, 2025* <br/>
 Nghiem T. Diep\*, <b>Huy Nguyen\*</b>, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho
 
 **[C.19]** [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/pdf/2405.14131.pdf). *Proceedings of the ICLR, 2025*. <br/>
