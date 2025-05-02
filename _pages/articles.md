@@ -15,34 +15,34 @@ redirect_from:
 
 ## Journal Submissions
 
-**[JS.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213) *Under review*. <br/>
+**[JS.3]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213) *Under review*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*, 
+
+**[JS.2]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
+Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
 **[JS.1]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
 <b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
 
 ## Conference Submissions
 
-**[CS.6]** [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective
+**[CS.3]** [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective
 ](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
 <b>Huy Nguyen\*</b>, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[CS.5]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). *Under review* <br/>
-Tuan Truong\*, Chau Nguyen\*, <b>Huy Nguyen\*</b>, Minh Le, Trung Le, Nhat Ho
-
-**[CS.4]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). *Under review* <br/>
+**[CS.2]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). *Under review* <br/>
 Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Nhat Ho
-
-**[CS.3]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). *Under review* <br/>
-Nghiem T. Diep\*, <b>Huy Nguyen\*</b>, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho
-
-**[CS.2]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
-Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
 **[CS.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
 Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
 
 ## Conference Publications
+
+**[CS.21]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). *Proceedings of the ICML, 2025* <br/>
+Tuan Truong\*, Chau Nguyen\*, <b>Huy Nguyen\*</b>, Minh Le, Trung Le, Nhat Ho
+
+**[CS.20]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). *Proceedings of the ICML, 2025* <br/>
+Nghiem T. Diep\*, <b>Huy Nguyen\*</b>, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho
 
 **[C.19]** [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/pdf/2405.14131.pdf). *Proceedings of the ICLR, 2025*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho
