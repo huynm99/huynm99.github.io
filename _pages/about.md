@@ -23,43 +23,49 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 
 ## Selected Publications on the Theory of Mixture of Experts
 
-**[T.1]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213). Under review (Part of it has been in the Proceedings of the ICML, 2024) <br/>
+**[T.1]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://arxiv.org/abs/2505.10860). Under review <br/>
+*__Huy Nguyen__, Thong T. Doan, Quang Pham, Nghi Q. D. Bui, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
+
+**[T.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213). Under review (Part of it has been in the Proceedings of the ICML, 2024) <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.2]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
+**[T.3]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.3]** [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). Under review <br/>
+**[T.4]** [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). Under review <br/>
 *__Huy Nguyen\*__, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.4]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
+**[T.5]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
 *__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
 
-**[T.5]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
+**[T.6]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
 
-**[T.6]** [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Proceedings of the ICLR, 2025 <br/>
+**[T.7]** [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Proceedings of the ICLR, 2025 <br/>
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
 
-**[T.7]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850). Proceedings of the ICLR, 2024 <br/>
+**[T.8]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850). Proceedings of the ICLR, 2024 <br/>
 *__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
 
-**[T.8]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review <br/>
+**[T.9]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review <br/>
 *__Huy Nguyen\*__, Xing Han\*, Carl William Harris, Suchia Saria\*\*, Nhat Ho\** *<br/>
 
-**[T.9]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/abs/2410.11222). Under review <br/>
+**[T.10]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/abs/2410.11222). Under review <br/>
 *Pedram Akbarian\*, __Huy Nguyen\*__,  Xing Han\*, Nhat Ho*<br/>
 
-**[T.10]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188). Proceedings of the ICML, 2024 <br/>
+**[T.11]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188). Proceedings of the ICML, 2024 <br/>
 *__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
 
-**[T.11]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572). In AISTATS, 2024 <br/>
+**[T.12]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572). In AISTATS, 2024 <br/>
 *__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
 
-**[T.12]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). In AISTATS, 2025 <br/>
+**[T.13]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). Under review <br/>
+*Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
+
+**[T.14]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). In AISTATS, 2025 <br/>
 *Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho*<br/>
 
-**[T.13]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220). In AISTATS, 2024 <br/>
+**[T.15]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220). In AISTATS, 2024 <br/>
 *__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
 
 
