@@ -27,7 +27,7 @@ Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 ## Conference Submissions
 
 **[CS.5]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
-<b>Huy Nguyen\*</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
+<b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[CS.4]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
 Fanqi Yan\*, <b>Huy Nguyen\*</b>, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
