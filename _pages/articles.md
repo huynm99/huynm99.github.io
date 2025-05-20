@@ -39,8 +39,8 @@ Fanqi Yan\*, <b>Huy Nguyen\*</b>, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Aless
 **[CS.2]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). *Under review* <br/>
 Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Nhat Ho
 
-**[CS.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
-Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
+**[CS.1]** [CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition](https://arxiv.org/pdf/2505.13380.pdf). *Under review*. <br/>
+Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho
 
 ## Conference Publications
 
