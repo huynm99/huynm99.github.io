@@ -88,8 +88,8 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 **[A.6]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). Proceedings of the ICML, 2025 <br/>
 *Nghiem T. Diep\*, __Huy Nguyen\*__, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho*<br/>
 
-**[A.7]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526). Under review <br/>
-*Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
+**[A.7]** [CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition](https://arxiv.org/abs/2505.13380). Under review <br/>
+*Nam V. Nguyen, __Huy Nguyen__, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho*<br/>
 
 ## Selected Publications on Optimal Transport
 **[O.1]** [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961). Proceedings of the ICML, 2022 <br/>
