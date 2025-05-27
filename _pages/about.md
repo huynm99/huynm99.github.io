@@ -32,7 +32,8 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 **[T.3]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.4]** [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). Under review <br/>
+**[T.4]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective
+](https://www.arxiv.org/abs/2502.00281). Under review <br/>
 *__Huy Nguyen\*__, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
 **[T.5]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
@@ -59,7 +60,7 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 **[T.12]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572). In AISTATS, 2024 <br/>
 *__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
 
-**[T.13]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). Under review <br/>
+**[T.13]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). Under review <br/>
 *Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
 **[T.14]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). In AISTATS, 2025 <br/>
