@@ -18,7 +18,7 @@ redirect_from:
 **[JS.3]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213) *Under review*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*, 
 
-**[JS.2]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
+**[JS.2]** [Quadratic Gating Mixture of Experts: Statistical Insights into Self-Attention](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
 Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
 **[JS.1]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
