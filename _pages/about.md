@@ -11,13 +11,13 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! I'm Huy Nguyen, a third-year Ph.D candidate at the [Department of Statistics and Data Sciences, The University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). In Summer 2024, I worked as a research intern at [Microsoft AI](https://www.microsoft.com/en-us/ai). 
+Welcome to my homepage! I'm Huy Nguyen, a fourth-year Ph.D candidate at the [Department of Statistics and Data Sciences, The University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). In Summer 2024, I worked as a research intern at [Microsoft AI](https://www.microsoft.com/en-us/ai). 
 
 I co-organize the Statistical Machine Learning seminar at UT Austin ([StatML@UT](https://sites.google.com/view/statmlut/people?authuser=0)).
 
 Email: huynm@utexas.edu
 ## Research Interests 
-My current research focuses on theoretical foundations for the Mixture-of-Experts models. In particular, I investigate the effects of various gating functions (namely the softmax gate, the Top-K sparse softmax gate, the dense-to-sparse gate, the sigmoid gate, etc) on the convergence of expert estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions and characterize expert networks which help improve the efficiency and scalability of the Mixture-of-Experts applications, including Large Language Models, Multi-modal Learning and Parameter-efficient Fine-Tuning. Additionally, I am also interested in Optimal Transport theory.
+My current research focuses on the foundations of Mixture-of-Experts models. In particular, I investigate the effects of various gating functions (namely the softmax gate, the Top-K sparse softmax gate, the dense-to-sparse gate, the sigmoid gate, etc) on the convergence of expert estimation under the Mixture-of-Experts. Based on insights from these results, I aim to design novel gating functions and characterize expert networks which help improve the efficiency and scalability of the Mixture-of-Experts applications, including Large Language Models, Multi-modal Learning and Parameter-efficient Fine-Tuning. Additionally, I am also interested in Optimal Transport theory.
 
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
@@ -51,7 +51,7 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 **[T.9]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review <br/>
 *__Huy Nguyen\*__, Xing Han\*, Carl William Harris, Suchia Saria\*\*, Nhat Ho\** *<br/>
 
-**[T.10]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/abs/2410.11222). Under review <br/>
+**[T.10]** [Quadratic Gating Mixture of Experts: Statistical Insights into Self-Attention](https://arxiv.org/abs/2410.11222). Under review <br/>
 *Pedram Akbarian\*, __Huy Nguyen\*__,  Xing Han\*, Nhat Ho*<br/>
 
 **[T.11]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188). Proceedings of the ICML, 2024 <br/>
@@ -131,5 +131,5 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-- Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2025), AISTATS (2022-2025), ICLR (2024-2025), and AAAI (2025).
+- Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2025), AISTATS (2022-2025), ICLR (2024-2025), and AAAI (2025-2026).
 - Journal Reviewer: Journal of Machine Learning Research, Electronic Journal of Statistics, Transactions on Machine Learning Research.
