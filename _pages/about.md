@@ -17,7 +17,9 @@ I co-organize the Statistical Machine Learning seminar at UT Austin ([StatML@UT]
 
 Email: huynm@utexas.edu
 ## Research Interests 
-My current research focuses on the foundations of Mixture-of-Experts models. In particular, I investigate the effects of various gating functions (namely the softmax gate, the Top-K sparse softmax gate, the dense-to-sparse gate, the sigmoid gate, etc) on the convergence of expert estimation under the Mixture-of-Experts. Based on insights from these results, I aim to design novel gating functions and characterize expert networks which help improve the efficiency and scalability of the Mixture-of-Experts applications, including Large Language Models, Multi-modal Learning and Parameter-efficient Fine-Tuning. Additionally, I am also interested in Optimal Transport theory.
+My research focuses on four important aspects of Mixture-of-Experts (MoE) models, including Scalability (eﬀective sparse MoE in large language models), Heterogeneity (MoE in multi-modal learning),
+Eﬃciency (MoE in parameter-eﬃcient fine-tuning, namely low-rank adaptation and prompt-based tuning), and Interpretability (theoretical understandings of different gating mechanisms and expert structures).
+Additionally, I am also interested in Optimal Transport problems.
 
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
