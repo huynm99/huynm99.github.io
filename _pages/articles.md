@@ -15,6 +15,9 @@ redirect_from:
 
 ## Journal Submissions
 
+**[JS.4]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review*. <br/>
+<b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
+
 **[JS.3]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213) *Under review*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*, 
 
