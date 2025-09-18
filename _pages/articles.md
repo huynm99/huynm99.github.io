@@ -15,6 +15,9 @@ redirect_from:
 
 ## Journal Submissions
 
+**[JS.4]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
+<b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
+
 **[JS.3]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213) *Under review*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*, 
 
@@ -26,12 +29,6 @@ Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
 ## Conference Submissions
 
-**[CS.5]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
-<b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
-
-**[CS.4]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). *Under review* <br/>
-Fanqi Yan\*, <b>Huy Nguyen\*</b>, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
-
 **[CS.3]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
 <b>Huy Nguyen\*</b>, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
@@ -42,6 +39,9 @@ Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Nhat Ho
 Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho
 
 ## Conference Publications
+
+**[C.22]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). *Advances in NeurIPS, 2025* <br/>
+Fanqi Yan\*, <b>Huy Nguyen\*</b>, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[C.21]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). *Proceedings of the ICML, 2025* <br/>
 Tuan Truong\*, Chau Nguyen\*, <b>Huy Nguyen\*</b>, Minh Le, Trung Le, Nhat Ho
