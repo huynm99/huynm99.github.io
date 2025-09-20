@@ -109,6 +109,7 @@ Additionally, I am also interested in Optimal Transport problems.
  
 
 ## Recent News
+- **[Sep 2025]** One paper on Mixture of Experts [[1](https://arxiv.org/abs/2505.18455)] is accepted to NeurIPS 2025. 
 - **[May 2025]** Two papers on applications of MoE in parameter-efficient fine-tuning are accepted to ICML 2025 ([[1](https://arxiv.org/abs/2502.03044)], [[2](https://arxiv.org/abs/2502.03029)]).
 - **[Jan 2025]** Three papers on Mixture of Experts are accepted to ICLR 2025 ([[1](https://arxiv.org/abs/2405.14131)], [[2](https://arxiv.org/abs/2410.02200)]) and AISTATS 2025 ([[3](https://arxiv.org/abs/2410.12258)]).
 - **[Dec 2024]** I was recognized as a top reviewer at NeurIPS 2024. I was also promoted to PhD candidate at UT Austin.
@@ -133,5 +134,5 @@ Additionally, I am also interested in Optimal Transport problems.
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-- Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2025), AISTATS (2022-2025), ICLR (2024-2025), and AAAI (2025-2026).
+- Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2025), AISTATS (2022-2026), ICLR (2024-2026), and AAAI (2025-2026).
 - Journal Reviewer: Journal of Machine Learning Research, Electronic Journal of Statistics, Transactions on Machine Learning Research.
