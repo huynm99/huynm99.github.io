@@ -94,6 +94,15 @@ Additionally, I am also interested in Optimal Transport problems.
 **[A.7]** [CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition](https://arxiv.org/abs/2505.13380). Under review <br/>
 *Nam V. Nguyen, __Huy Nguyen__, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho*<br/>
 
+**[A.8]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Under review* <br/>
+*Minh Le, Bao-Ngoc Dao, __Huy Nguyen__, Quyen Tran, Anh Nguyen Nhat Ho*<br/>
+
+**[A.9]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
+*Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
+
+**[A.10]** [HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
+*Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
+
 ## Selected Publications on Optimal Transport
 **[O.1]** [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961). Proceedings of the ICML, 2022 <br/>
 *__Huy Nguyen\*__, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho*<br/>
