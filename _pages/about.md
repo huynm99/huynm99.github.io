@@ -13,7 +13,7 @@ redirect_from:
    
 Welcome to my homepage! I'm Huy Nguyen, a fourth-year Ph.D candidate at the [Department of Statistics and Data Sciences, The University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). In Summer 2024, I worked as a research intern at [Microsoft AI](https://www.microsoft.com/en-us/ai). 
 
-I co-organize the Statistical Machine Learning seminar at UT Austin ([StatML@UT](https://sites.google.com/view/statmlut/people?authuser=0)).
+I co-organized the Statistical Machine Learning seminar at UT Austin ([StatML@UT](https://sites.google.com/view/statmlut/people?authuser=0)).
 
 Email: huynm@utexas.edu
 ## Research Interests 
@@ -97,10 +97,10 @@ Additionally, I am also interested in Optimal Transport problems.
 **[A.8]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Under review* <br/>
 *Minh Le, Bao-Ngoc Dao, __Huy Nguyen__, Quyen Tran, Anh Nguyen Nhat Ho*<br/>
 
-**[A.9]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
+**[A.9]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
 *Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
 
-**[A.10]** [HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
+**[A.10]** [HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks](http://arxiv.org/abs/2510.04295). *Under review* <br/>
 *Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
 
 ## Selected Publications on Optimal Transport
