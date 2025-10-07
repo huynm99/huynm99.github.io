@@ -35,10 +35,10 @@ Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 **[CS.5]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Under review* <br/>
 Minh Le, Bao-Ngoc Dao, <b>Huy Nguyen</b>, Quyen Tran, Anh Nguyen Nhat Ho
 
-**[CS.4]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
+**[CS.4]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
 Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
 
-**[CS.3]** [HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
+**[CS.3]** [HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks](http://arxiv.org/abs/2510.04295). *Under review* <br/>
 Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
 
 **[CS.2]** [Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936). *Under review* <br/>
