@@ -42,8 +42,11 @@ Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat
 
 ## Journal Publications
 
-**[J.1]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504) *IEEE Transactions on Information Theory, doi: 10.1109/TIT.2025.3647061*. <br/>
+**[J.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504) *IEEE Transactions on Information Theory (2025), doi: 10.1109/TIT.2025.3647061*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
+
+**[J.1]** [EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data](https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346). *Information Sciences, Volume 567, August 2021, Pages 1-22*. <br/>
+Thu Nguyen, Duy H. M. Nguyen, <b>Huy Nguyen</b>, Binh T. Nguyen, Bruce A. Wade.
 
 ## Conference Publications
 
@@ -113,9 +116,7 @@ Khai Nguyen, Tongzheng Ren, <b>Huy Nguyen</b>, Litu Rout, Tan Nguyen, Nhat Ho
 **[C.1]** [On Robust Optimal Transport: Computational Complexity and Barycenter Computation](https://proceedings.neurips.cc/paper/2021/hash/b80ba73857eed2a36dc7640e2310055a-Abstract.html). *Advances in NeurIPS, 2021*. <br/>
 <b>Huy Nguyen\*</b>, Khang Le\*, Quang Minh Nguyen, Tung Pham, Hung Bui, Nhat Ho
 
-## Journal Publications
 
-**[J.1]** [EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data](https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346). *Information Sciences, Volume 567, August 2021, Pages 1-22*. <br/>
-Thu Nguyen, Duy H. M. Nguyen, <b>Huy Nguyen</b>, Binh T. Nguyen, Bruce A. Wade.
+
 
 
