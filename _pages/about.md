@@ -28,7 +28,7 @@ Additionally, I am also interested in Optimal Transport problems.
 **[T.1]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://arxiv.org/abs/2505.10860). Under review <br/>
 *__Huy Nguyen__, Thong T. Doan, Quang Pham, Nghi Q. D. Bui, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213). Under review (Part of it has been in the Proceedings of the ICML, 2024) <br/>
+**[T.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). IEEE Transactions on Information Theory, 2025 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
 **[T.3]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
@@ -100,9 +100,6 @@ Additionally, I am also interested in Optimal Transport problems.
 **[A.9]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
 *Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
 
-**[A.10]** [HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks](http://arxiv.org/abs/2510.04295). *Under review* <br/>
-*Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
-
 ## Selected Publications on Optimal Transport
 **[O.1]** [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961). Proceedings of the ICML, 2022 <br/>
 *__Huy Nguyen\*__, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho*<br/>
@@ -118,6 +115,7 @@ Additionally, I am also interested in Optimal Transport problems.
  
 
 ## Recent News
+- **[Dec 2025]** Our paper on the theory of Mixture of Experts [[1](https://ieeexplore.ieee.org/document/11311504)] is accepted to the IEEE Transactions on Information Theory (2025).
 - **[Sep 2025]** One paper on Mixture of Experts [[1](https://arxiv.org/abs/2505.18455)] is accepted to NeurIPS 2025. 
 - **[May 2025]** Two papers on applications of MoE in parameter-efficient fine-tuning are accepted to ICML 2025 ([[1](https://arxiv.org/abs/2502.03044)], [[2](https://arxiv.org/abs/2502.03029)]).
 - **[Jan 2025]** Three papers on Mixture of Experts are accepted to ICLR 2025 ([[1](https://arxiv.org/abs/2405.14131)], [[2](https://arxiv.org/abs/2410.02200)]) and AISTATS 2025 ([[3](https://arxiv.org/abs/2410.12258)]).
@@ -143,5 +141,5 @@ Additionally, I am also interested in Optimal Transport problems.
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-- Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2025), AISTATS (2022-2026), ICLR (2024-2026), and AAAI (2025-2026).
-- Journal Reviewer: Journal of Machine Learning Research, Electronic Journal of Statistics, Transactions on Machine Learning Research.
+- Conference Reviewer: ICML (2022-2026), NeurIPS (2022-2025), AISTATS (2022-2026), ICLR (2024-2026), and AAAI (2025-2026).
+- Journal Reviewer: Journal of Machine Learning Research (JMLR), Electronic Journal of Statistics (EJS), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR).
