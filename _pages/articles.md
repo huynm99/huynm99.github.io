@@ -12,14 +12,10 @@ redirect_from:
 
 (*) denotes equal contribution, (**) denotes equal advising
 
-
 ## Journal Submissions
 
-**[JS.5]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review*. <br/>
+**[JS.4]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review*. <br/>
 <b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
-
-**[JS.4]** [Convergence Rates for Softmax Gating Mixture of Experts](https://arxiv.org/abs/2503.03213) *Under review*. <br/>
-<b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[JS.3]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
 <b>Huy Nguyen\*</b>, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
@@ -32,20 +28,22 @@ Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
 ## Conference Submissions
 
-**[CS.5]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Under review* <br/>
+**[CS.4]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Under review* <br/>
 Minh Le, Bao-Ngoc Dao, <b>Huy Nguyen</b>, Quyen Tran, Anh Nguyen Nhat Ho
 
-**[CS.4]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
+**[CS.3]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
 Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
-
-**[CS.3]** [HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks](http://arxiv.org/abs/2510.04295). *Under review* <br/>
-Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
 
 **[CS.2]** [Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936). *Under review* <br/>
 Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Anh Tran, Nhat Ho
 
 **[CS.1]** [CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition](https://arxiv.org/pdf/2505.13380.pdf). *Under review*. <br/>
 Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho
+
+## Journal Publications
+
+**[J.1]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504) *IEEE Transactions on Information Theory, doi: 10.1109/TIT.2025.3647061*. <br/>
+<b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 ## Conference Publications
 
