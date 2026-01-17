@@ -42,7 +42,7 @@ Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat
 
 ## Journal Publications
 
-**[J.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504) *IEEE Transactions on Information Theory (2025), doi: 10.1109/TIT.2025.3647061*. <br/>
+**[J.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). *IEEE Transactions on Information Theory (2025), doi: 10.1109/TIT.2025.3647061*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[J.1]** [EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data](https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346). *Information Sciences, Volume 567, August 2021, Pages 1-22*. <br/>
