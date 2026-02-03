@@ -28,27 +28,39 @@ Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
 ## Conference Submissions
 
-**[CS.4]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Under review* <br/>
-Minh Le, Bao-Ngoc Dao, <b>Huy Nguyen</b>, Quyen Tran, Anh Nguyen Nhat Ho
+**[CS.6]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). *Under review* <br/>
+Viet Nguyen\*, Tuan Minh Pham\*, Thinh Cao\*, <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[CS.3]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
+**[CS.5]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). *Under review* <br/>
+Tuan Minh Pham\*, Thinh Cao\*, Viet Nguyen\*, <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
+
+**[CS.4]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). *Under review* <br/>
+Fanqi Yan\*, Dung Le\*, Trang Pham, <b>Huy Nguyen</b>, Nhat Ho
+
+**[CS.3]** [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](https://arxiv.org/abs/2510.04295v2). *Under review* <br/>
+Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
+
+**[CS.2]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
 Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
-
-**[CS.2]** [Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936). *Under review* <br/>
-Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Anh Tran, Nhat Ho
 
 **[CS.1]** [CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition](https://arxiv.org/pdf/2505.13380.pdf). *Under review*. <br/>
 Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho
 
 ## Journal Publications
 
-**[J.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). *IEEE Transactions on Information Theory (2025), doi: 10.1109/TIT.2025.3647061*. <br/>
+**[J.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). *IEEE Transactions on Information Theory 2(2), 1276-1304, 2026., doi: 10.1109/TIT.2025.3647061*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[J.1]** [EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data](https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346). *Information Sciences, Volume 567, August 2021, Pages 1-22*. <br/>
 Thu Nguyen, Duy H. M. Nguyen, <b>Huy Nguyen</b>, Binh T. Nguyen, Bruce A. Wade.
 
 ## Conference Publications
+
+**[CS.24]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Proceedings of the ICLR, 2026* <br/>
+Minh Le, Bao-Ngoc Dao, <b>Huy Nguyen</b>, Quyen Tran, Anh Nguyen Nhat Ho
+
+**[CS.23]** [Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936). *Proceedings of the ICLR, 2026* <br/>
+Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Anh Tran, Nhat Ho
 
 **[C.22]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). *Advances in NeurIPS, 2025* <br/>
 Fanqi Yan\*, <b>Huy Nguyen\*</b>, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
