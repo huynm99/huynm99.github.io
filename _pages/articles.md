@@ -48,7 +48,7 @@ Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat
 
 ## Journal Publications
 
-**[J.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). *IEEE Transactions on Information Theory 2(2), 1276-1304, 2026., doi: 10.1109/TIT.2025.3647061*. <br/>
+**[J.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). *IEEE Transactions on Information Theory 72(2), 1276-1304, 2026*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[J.1]** [EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data](https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346). *Information Sciences, Volume 567, August 2021, Pages 1-22*. <br/>
@@ -56,10 +56,10 @@ Thu Nguyen, Duy H. M. Nguyen, <b>Huy Nguyen</b>, Binh T. Nguyen, Bruce A. Wade.
 
 ## Conference Publications
 
-**[CS.24]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Proceedings of the ICLR, 2026* <br/>
+**[C.24]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Proceedings of the ICLR, 2026* <br/>
 Minh Le, Bao-Ngoc Dao, <b>Huy Nguyen</b>, Quyen Tran, Anh Nguyen Nhat Ho
 
-**[CS.23]** [Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936). *Proceedings of the ICLR, 2026* <br/>
+**[C.23]** [Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936). *Proceedings of the ICLR, 2026* <br/>
 Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Anh Tran, Nhat Ho
 
 **[C.22]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). *Advances in NeurIPS, 2025* <br/>
