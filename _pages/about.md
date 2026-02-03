@@ -25,50 +25,59 @@ Additionally, I am also interested in Optimal Transport problems.
 
 ## Selected Publications on the Theory of Mixture of Experts
 
-**[T.1]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://arxiv.org/abs/2505.10860). Under review <br/>
+**[T.1]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://arxiv.org/abs/2505.10860). Under review, 2025 <br/>
 *__Huy Nguyen__, Thong T. Doan, Quang Pham, Nghi Q. D. Bui, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). IEEE Transactions on Information Theory, 2025 <br/>
+**[T.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). IEEE Transactions on Information Theory 72(2), 1276-1304, 2026 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.3]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
+**[T.3]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). Under review, 2026 <br/>
+*Viet Nguyen\*, Tuan Minh Pham\*, Thinh Cao\*, __Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
+
+**[T.4]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). Under review, 2026 <br/>
+*Tuan Minh Pham\*, Thinh Cao\*, Viet Nguyen\*,__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
+
+**[T.5]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.4]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective
+**[T.6]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective
 ](https://www.arxiv.org/abs/2502.00281). Under review <br/>
 *__Huy Nguyen\*__, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.5]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
+**[T.7]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
 *__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
 
-**[T.6]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
+**[T.8]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
 
-**[T.7]** [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Proceedings of the ICLR, 2025 <br/>
+**[T.9]** [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Proceedings of the ICLR, 2025 <br/>
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
 
-**[T.8]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850). Proceedings of the ICLR, 2024 <br/>
+**[T.10]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850). Proceedings of the ICLR, 2024 <br/>
 *__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
 
-**[T.9]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review <br/>
+**[T.11]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review <br/>
 *__Huy Nguyen\*__, Xing Han\*, Carl William Harris, Suchia Saria\*\*, Nhat Ho\** *<br/>
 
-**[T.10]** [Quadratic Gating Mixture of Experts: Statistical Insights into Self-Attention](https://arxiv.org/abs/2410.11222). Under review <br/>
+**[T.12]** [Quadratic Gating Mixture of Experts: Statistical Insights into Self-Attention](https://arxiv.org/abs/2410.11222). Under review <br/>
 *Pedram Akbarian\*, __Huy Nguyen\*__,  Xing Han\*, Nhat Ho*<br/>
 
-**[T.11]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188). Proceedings of the ICML, 2024 <br/>
+**[T.13]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188). Proceedings of the ICML, 2024 <br/>
 *__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
 
-**[T.12]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572). In AISTATS, 2024 <br/>
+**[T.14]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572). In AISTATS, 2024 <br/>
 *__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
 
-**[T.13]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). Advances in NeurIPS, 2025 <br/>
+**[T.15]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). Under review, 2026 <br/>
+*Fanqi Yan\*, Dung Le\*, Trang Pham,__Huy Nguyen__, Nhat Ho*<br/>
+
+**[T.16]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). Advances in NeurIPS, 2025 <br/>
 *Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.14]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). In AISTATS, 2025 <br/>
+**[T.17]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). In AISTATS, 2025 <br/>
 *Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho*<br/>
 
-**[T.15]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220). In AISTATS, 2024 <br/>
+**[T.18]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220). In AISTATS, 2024 <br/>
 *__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
 
 
@@ -82,7 +91,7 @@ Additionally, I am also interested in Optimal Transport problems.
 **[A.3]** [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200). Proceedings of the ICLR, 2025 <br/>
 *Minh Le\*, Chau Nguyen\*, __Huy Nguyen\*__, Quyen Tran, Trung Le, Nhat Ho*<br/>
 
-**[A.4]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). Under review <br/>
+**[A.4]** [Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936). Proceedings of the ICLR, 2026 <br/>
 *Minh Le\*, Anh Nguyen\*, __Huy Nguyen__, Chau Nguyen, Nhat Ho*<br/>
 
 **[A.5]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). Proceedings of the ICML, 2025 <br/>
@@ -94,11 +103,14 @@ Additionally, I am also interested in Optimal Transport problems.
 **[A.7]** [CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition](https://arxiv.org/abs/2505.13380). Under review <br/>
 *Nam V. Nguyen, __Huy Nguyen__, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho*<br/>
 
-**[A.8]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Under review* <br/>
+**[A.8]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). Proceedings of the ICLR, 2026 <br/>
 *Minh Le, Bao-Ngoc Dao, __Huy Nguyen__, Quyen Tran, Anh Nguyen Nhat Ho*<br/>
 
 **[A.9]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
 *Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
+
+**[A.10]** [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](http://arxiv.org/abs/2510.04295v2). *Under review* <br/>
+*Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
 
 ## Selected Publications on Optimal Transport
 **[O.1]** [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961). Proceedings of the ICML, 2022 <br/>
@@ -115,7 +127,8 @@ Additionally, I am also interested in Optimal Transport problems.
  
 
 ## Recent News
-- **[Dec 2025]** Our paper on the theory of Mixture of Experts [[1](https://ieeexplore.ieee.org/document/11311504)] is accepted to the IEEE Transactions on Information Theory (2025).
+- **[Jan 2026]** Two papers on Promp Tuning [[1](https://arxiv.org/pdf/2509.24483)], [[2](https://arxiv.org/abs/2501.18936)] are accepted to ICLR 2026.
+- **[Dec 2025]** Our paper on the theory of Mixture of Experts [[1](https://ieeexplore.ieee.org/document/11311504)] is accepted to the IEEE Transactions on Information Theory (2026).
 - **[Sep 2025]** One paper on Mixture of Experts [[1](https://arxiv.org/abs/2505.18455)] is accepted to NeurIPS 2025. 
 - **[May 2025]** Two papers on applications of MoE in parameter-efficient fine-tuning are accepted to ICML 2025 ([[1](https://arxiv.org/abs/2502.03044)], [[2](https://arxiv.org/abs/2502.03029)]).
 - **[Jan 2025]** Three papers on Mixture of Experts are accepted to ICLR 2025 ([[1](https://arxiv.org/abs/2405.14131)], [[2](https://arxiv.org/abs/2410.02200)]) and AISTATS 2025 ([[3](https://arxiv.org/abs/2410.12258)]).
