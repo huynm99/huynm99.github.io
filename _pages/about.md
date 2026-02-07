@@ -23,10 +23,10 @@ Additionally, I am also interested in Optimal Transport problems.
 
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
-## Selected Publications on the Theory of Mixture of Experts
+## Publications on the Theory of Mixture of Experts
 
 **[T.1]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://arxiv.org/abs/2505.10860). Under review, 2025 <br/>
-*__Huy Nguyen__, Thong T. Doan, Quang Pham, Nghi Q. D. Bui, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
+*__Huy Nguyen__, Thong T. Doan, Quang Pham, Nghi Bui, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
 **[T.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). IEEE Transactions on Information Theory 72(2), 1276-1304, 2026 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
@@ -35,7 +35,7 @@ Additionally, I am also interested in Optimal Transport problems.
 *Viet Nguyen\*, Tuan Minh Pham\*, Thinh Cao\*, __Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
 **[T.4]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). Under review, 2026 <br/>
-*Tuan Minh Pham\*, Thinh Cao\*, Viet Nguyen\*,__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
+*Tuan Minh Pham\*, Thinh Cao\*, Viet Nguyen\*, __Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
 **[T.5]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
@@ -69,7 +69,7 @@ Additionally, I am also interested in Optimal Transport problems.
 *__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
 
 **[T.15]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). Under review, 2026 <br/>
-*Fanqi Yan\*, Dung Le\*, Trang Pham,__Huy Nguyen__, Nhat Ho*<br/>
+*Fanqi Yan\*, Dung Le\*, Trang Pham, __Huy Nguyen__, Nhat Ho*<br/>
 
 **[T.16]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). Advances in NeurIPS, 2025 <br/>
 *Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
@@ -81,7 +81,7 @@ Additionally, I am also interested in Optimal Transport problems.
 *__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
 
 
-## Selected Publications on the Applications of Mixture of Experts
+## Publications on the Applications of Mixture of Experts
 **[A.1]** [FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/abs/2402.03226). Advances in NeurIPS, 2024 <br/>
 *Xing Han, __Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
 
@@ -112,7 +112,7 @@ Additionally, I am also interested in Optimal Transport problems.
 **[A.10]** [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](http://arxiv.org/abs/2510.04295v2). *Under review* <br/>
 *Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
 
-## Selected Publications on Optimal Transport
+## Publications on Optimal Transport
 **[O.1]** [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961). Proceedings of the ICML, 2022 <br/>
 *__Huy Nguyen\*__, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho*<br/>
 
