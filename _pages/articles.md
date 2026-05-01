@@ -14,34 +14,35 @@ redirect_from:
 
 ## Journal Submissions
 
-**[JS.4]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review*. <br/>
+**[JS.5]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review*. <br/>
 <b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[JS.3]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
+**[JS.4]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
 <b>Huy Nguyen\*</b>, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
+
+**[JS.3]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
+<b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
 
 **[JS.2]** [Quadratic Gating Mixture of Experts: Statistical Insights into Self-Attention](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
 Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
-**[JS.1]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
-<b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
+**[JS.1]** [On Bayesian Softmax-Gated Mixture-of-Experts Models](https://arxiv.org/abs/2604.20551). *Under review*. <br/>
+Nicola Bariletto\*, <b>Huy Nguyen\*</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
+
 
 ## Conference Submissions
 
-**[CS.6]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). *Under review* <br/>
+**[CS.5]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). *Under review* <br/>
 Viet Nguyen\*, Tuan Minh Pham\*, Thinh Cao\*, <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[CS.5]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). *Under review* <br/>
+**[CS.4]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). *Under review* <br/>
 Tuan Minh Pham\*, Thinh Cao\*, Viet Nguyen\*, <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[CS.4]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). *Under review* <br/>
+**[CS.3]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). *Under review* <br/>
 Fanqi Yan\*, Dung Le\*, Trang Pham, <b>Huy Nguyen</b>, Nhat Ho
 
-**[CS.3]** [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](https://arxiv.org/abs/2510.04295v2). *Under review* <br/>
+**[CS.2]** [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](https://arxiv.org/abs/2510.04295v2). *Under review* <br/>
 Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
-
-**[CS.2]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
-Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
 
 **[CS.1]** [CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition](https://arxiv.org/pdf/2505.13380.pdf). *Under review*. <br/>
 Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho
