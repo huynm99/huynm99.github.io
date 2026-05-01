@@ -106,10 +106,7 @@ Additionally, I am also interested in Optimal Transport problems.
 **[A.8]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). Proceedings of the ICLR, 2026 <br/>
 *Minh Le, Bao-Ngoc Dao, __Huy Nguyen__, Quyen Tran, Anh Nguyen Nhat Ho*<br/>
 
-**[A.9]** [DoRAN: Stabilizing Weight-Decomposed Low-Rank Adaptation via Noise Injection and Auxiliary Networks](http://arxiv.org/abs/2510.04331). *Under review* <br/>
-*Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
-
-**[A.10]** [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](http://arxiv.org/abs/2510.04295v2). *Under review* <br/>
+**[A.9]** [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](http://arxiv.org/abs/2510.04295v2). *Under review* <br/>
 *Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, __Huy Nguyen__, Nhat Ho*<br/>
 
 ## Publications on Optimal Transport
