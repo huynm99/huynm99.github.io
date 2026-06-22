@@ -25,59 +25,62 @@ Additionally, I am also interested in Optimal Transport problems.
 
 ## Publications on the Theory of Mixture of Experts
 
-**[T.1]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://arxiv.org/abs/2505.10860). Under review, 2025 <br/>
+**[T.1]** [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/abs/2606.16179). Under review, 2026 <br/>
+*__Huy Nguyen\*__, Dung Le Alessandro Rinaldo, Nhat Ho*<br/>
+
+**[T.2]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://arxiv.org/abs/2505.10860). Under review, 2025 <br/>
 *__Huy Nguyen__, Thong T. Doan, Quang Pham, Nghi Bui, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.2]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). IEEE Transactions on Information Theory 72(2), 1276-1304, 2026 <br/>
+**[T.3]** [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). IEEE Transactions on Information Theory 72(2), 1276-1304, 2026 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.3]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). Under review, 2026 <br/>
+**[T.4]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). Under review, 2026 <br/>
 *Viet Nguyen\*, Tuan Minh Pham\*, Thinh Cao\*, __Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.4]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). Under review, 2026 <br/>
+**[T.5]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). Under review, 2026 <br/>
 *Tuan Minh Pham\*, Thinh Cao\*, Viet Nguyen\*, __Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.5]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
+**[T.6]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.6]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective
+**[T.7]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective
 ](https://www.arxiv.org/abs/2502.00281). Under review <br/>
 *__Huy Nguyen\*__, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.7]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
+**[T.8]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
 *__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
 
-**[T.8]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
+**[T.9]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
 
-**[T.9]** [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Proceedings of the ICLR, 2025 <br/>
+**[T.10]** [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Proceedings of the ICLR, 2025 <br/>
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
 
-**[T.10]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850). Proceedings of the ICLR, 2024 <br/>
+**[T.11]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850). Proceedings of the ICLR, 2024 <br/>
 *__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
 
-**[T.11]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review <br/>
+**[T.12]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review <br/>
 *__Huy Nguyen\*__, Xing Han\*, Carl William Harris, Suchia Saria\*\*, Nhat Ho\** *<br/>
 
-**[T.12]** [Quadratic Gating Mixture of Experts: Statistical Insights into Self-Attention](https://arxiv.org/abs/2410.11222). Under review <br/>
+**[T.13]** [Quadratic Gating Mixture of Experts: Statistical Insights into Self-Attention](https://arxiv.org/abs/2410.11222). Under review <br/>
 *Pedram Akbarian\*, __Huy Nguyen\*__,  Xing Han\*, Nhat Ho*<br/>
 
-**[T.13]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188). Proceedings of the ICML, 2024 <br/>
+**[T.14]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188). Proceedings of the ICML, 2024 <br/>
 *__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
 
-**[T.14]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572). In AISTATS, 2024 <br/>
+**[T.15]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572). In AISTATS, 2024 <br/>
 *__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
 
-**[T.15]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). Under review, 2026 <br/>
+**[T.16]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). Under review, 2026 <br/>
 *Fanqi Yan\*, Dung Le\*, Trang Pham, __Huy Nguyen__, Nhat Ho*<br/>
 
-**[T.16]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). Advances in NeurIPS, 2025 <br/>
+**[T.17]** [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). Advances in NeurIPS, 2025 <br/>
 *Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
-**[T.17]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). In AISTATS, 2025 <br/>
+**[T.18]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). In AISTATS, 2025 <br/>
 *Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho*<br/>
 
-**[T.18]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220). In AISTATS, 2024 <br/>
+**[T.19]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220). In AISTATS, 2024 <br/>
 *__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
 
 
@@ -151,5 +154,5 @@ Additionally, I am also interested in Optimal Transport problems.
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-- Conference Reviewer: ICML (2022-2026), NeurIPS (2022-2025), AISTATS (2022-2026), ICLR (2024-2026), and AAAI (2025-2026).
+- Conference Reviewer: ICML (2022-2026), NeurIPS (2022-2026), AISTATS (2022-2026), ICLR (2024-2026), and AAAI (2025-2026).
 - Journal Reviewer: Journal of Machine Learning Research (JMLR), Electronic Journal of Statistics (EJS), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR).
