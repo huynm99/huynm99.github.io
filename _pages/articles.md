@@ -14,6 +14,9 @@ redirect_from:
 
 ## Journal Submissions
 
+**[JS.6]** [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/abs/2606.16179). *Under review*. <br/>
+<b>Huy Nguyen\*</b>, Dung Le\*, Alessandro Rinaldo, Nhat Ho
+
 **[JS.5]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review*. <br/>
 <b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
@@ -28,7 +31,6 @@ Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
 **[JS.1]** [On Bayesian Softmax-Gated Mixture-of-Experts Models](https://arxiv.org/abs/2604.20551). *Under review*. <br/>
 Nicola Bariletto\*, <b>Huy Nguyen\*</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
-
 
 ## Conference Submissions
 
