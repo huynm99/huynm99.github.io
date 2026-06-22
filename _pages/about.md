@@ -26,7 +26,7 @@ Additionally, I am also interested in Optimal Transport problems.
 ## Publications on the Theory of Mixture of Experts
 
 **[T.1]** [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/abs/2606.16179). Under review, 2026 <br/>
-*__Huy Nguyen\*__, Dung Le Alessandro Rinaldo, Nhat Ho*<br/>
+*__Huy Nguyen\*__, Dung Le\*, Alessandro Rinaldo, Nhat Ho*<br/>
 
 **[T.2]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://arxiv.org/abs/2505.10860). Under review, 2025 <br/>
 *__Huy Nguyen__, Thong T. Doan, Quang Pham, Nghi Bui, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
