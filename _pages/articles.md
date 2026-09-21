@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-(*) denotes equal contribution, (**) denotes equal advising
+(*) denotes equal contribution, (**) denotes co-last authors
 
 ## Full Publication List by Themes
 
