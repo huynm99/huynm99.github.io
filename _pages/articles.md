@@ -10,6 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Full Publication List by Type
+
+<details markdown="1">
+<summary><strong>Show all publications</strong></summary>
 (*) denotes equal contribution, (**) denotes equal advising
 
 ## Journal Submissions
@@ -37,17 +41,20 @@ Nicola Bariletto\*, <b>Huy Nguyen\*</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 ## Conference Submissions
 
-**[CS.5]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). *Under review* <br/>
+**[CS.6]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). *Under review* <br/>
 Viet Nguyen\*, Tuan Minh Pham\*, Thinh Cao\*, <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[CS.4]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). *Under review* <br/>
+**[CS.5]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). *Under review* <br/>
 Tuan Minh Pham\*, Thinh Cao\*, Viet Nguyen\*, <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[CS.3]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). *Under review* <br/>
+**[CS.4]** [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/abs/2602.00939). *Under review* <br/>
 Fanqi Yan\*, Dung Le\*, Trang Pham, <b>Huy Nguyen</b>, Nhat Ho
 
-**[CS.2]** [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](https://arxiv.org/abs/2510.04295v2). *Under review* <br/>
+**[CS.3]** [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](https://arxiv.org/abs/2510.04295v2). *Under review* <br/>
 Nghiem T. Diep\*, Dung Le\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
+
+**[CS.2]** [Improving Weight-Decomposed Low-rank Adaptation with Shared Auxiliary Networks](https://arxiv.org/abs/2510.04331). *Under review* <br/>
+Nghiem T. Diep\*, Hien Dang\*, Tuan Truong\*, Tan Dinh, <b>Huy Nguyen</b>, Nhat Ho
 
 **[CS.1]** [CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition](https://arxiv.org/pdf/2505.13380.pdf). *Under review*. <br/>
 Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho
@@ -134,7 +141,7 @@ Khai Nguyen, Tongzheng Ren, <b>Huy Nguyen</b>, Litu Rout, Tan Nguyen, Nhat Ho
 **[C.1]** [On Robust Optimal Transport: Computational Complexity and Barycenter Computation](https://proceedings.neurips.cc/paper/2021/hash/b80ba73857eed2a36dc7640e2310055a-Abstract.html). *Advances in NeurIPS, 2021*. <br/>
 <b>Huy Nguyen\*</b>, Khang Le\*, Quang Minh Nguyen, Tung Pham, Hung Bui, Nhat Ho
 
-
+</details>
 
 
 
