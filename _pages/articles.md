@@ -14,8 +14,11 @@ redirect_from:
 
 ## Journal Submissions
 
-**[JS.6]** [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/abs/2606.16179). *Under review*. <br/>
+**[JS.7]** [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/abs/2606.16179). *Under review*. <br/>
 <b>Huy Nguyen\*</b>, Dung Le\*, Alessandro Rinaldo, Nhat Ho
+
+**[JS.6]** [Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport](https://arxiv.org/abs/2609.16622). *Under review*. <br/>
+Dung Le\*, <b>Huy Nguyen\*</b>, Trang Pham, Alessandro Rinaldo, Nhat Ho
 
 **[JS.5]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review*. <br/>
 <b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
