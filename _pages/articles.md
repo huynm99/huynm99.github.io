@@ -84,6 +84,9 @@ redirect_from:
 ](https://arxiv.org/abs/2609.16622). Under review, 2026 <br/>
 *Dung Le\*, __Huy Nguyen\*__, Trang Pham, Alessandro Rinaldo, Nhat Ho*<br/>
 
+- [Joint Estimation and Feature Selection in Overspecified Finite Mixture of Regressions](). Under review, 2026 <br/>
+*Abbas Khalili\*, Pengqi Liu\*, __Huy Nguyen\*__, Nhat Ho*<br/>
+
 - [Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808). NeurIPS, 2023 <br/>
 *Dat Do\*, __Huy Nguyen\*__, Khai Nguyen, Nhat Ho*<br/>
 
@@ -157,20 +160,23 @@ redirect_from:
 
 ## Journal Submissions
 
-**[JS.7]** [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/abs/2606.16179). *Under review*. <br/>
+**[JS.8]** [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/abs/2606.16179). *Under review*. <br/>
 <b>Huy Nguyen\*</b>, Dung Le\*, Alessandro Rinaldo, Nhat Ho
 
-**[JS.6]** [Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport](https://arxiv.org/abs/2609.16622). *Under review*. <br/>
+**[JS.7]** [Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport](https://arxiv.org/abs/2609.16622). *Under review*. <br/>
 Dung Le\*, <b>Huy Nguyen\*</b>, Trang Pham, Alessandro Rinaldo, Nhat Ho
 
-**[JS.5]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review*. <br/>
+**[JS.6]** [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://www.arxiv.org/abs/2502.00281). *Under review*. <br/>
 <b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[JS.4]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
+**[JS.5]** [Sigmoid Self-Attention has Lower Sample Complexity than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). *Under review* <br/>
 <b>Huy Nguyen\*</b>, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
-**[JS.3]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
+**[JS.4]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
 <b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
+
+**[JS.3]** [Joint Estimation and Feature Selection in Overspecified Finite Mixture of Regressions](). Under review, 2026 <br/>
+*Abbas Khalili\*, Pengqi Liu\*, __Huy Nguyen\*__, Nhat Ho*<br/>
 
 **[JS.2]** [Quadratic Gating Mixture of Experts: Statistical Insights into Self-Attention](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
 Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
