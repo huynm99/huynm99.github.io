@@ -211,7 +211,7 @@ Thu Nguyen, Duy H. M. Nguyen, <b>Huy Nguyen</b>, Binh T. Nguyen, Bruce A. Wade.
 
 ## Conference Publications
 
-**[CS.6]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). *Advances in NeurIPS, 2026* <br/>
+**[CS.25]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468). *Advances in NeurIPS, 2026* <br/>
 Viet Nguyen\*, Tuan Minh Pham\*, Thinh Cao\*, <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[C.24]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/pdf/2509.24483). *Proceedings of the ICLR, 2026* <br/>
