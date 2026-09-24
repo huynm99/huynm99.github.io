@@ -20,6 +20,8 @@ My research develops **statistical foundations for modern AI**, with a particula
 
 ## Recent News
 
+- **[Sep 2026]** Our paper [*A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts*](https://arxiv.org/abs/2602.01468) was accepted to NeurIPS 2026.
+- **[Sep 2026]** Our new paper [*Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport*](https://arxiv.org/abs/2609.16622) is available on arXiv.
 - **[Sep 2026]** I was selected as a recipient of the *Outstanding Graduate Research Fellowship* at UT Austin.
 - **[Aug 2026]** I will serve as a Senior Program Committee member for AAAI 2027.
 - **[Jun 2026]** Our new paper [*On the Geometry of Separation in Finite Gaussian Mixtures*](https://arxiv.org/abs/2606.16179) is available on arXiv.
@@ -38,7 +40,7 @@ My research develops **statistical foundations for modern AI**, with a particula
 ## Professional Service
 
 - **Senior Program Committee:** AAAI 2027.
-- **Conference Reviewer:** ICML (2022--2026), NeurIPS (2022--2026), AISTATS (2022--2026), ICLR (2024--2027), AAAI (2025--2026).
+- **Conference Reviewer:** ICML (2022--2026), NeurIPS (2022--2026), AISTATS (2022--2027), ICLR (2024--2027), AAAI (2025--2026).
 - **Journal Reviewer:** *Journal of Machine Learning Research (JMLR)*, *Electronic Journal of Statistics (EJS)*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, *Transactions on Machine Learning Research (TMLR)*.
 - **Seminar Co-organizer:** [StatML@UT](https://sites.google.com/view/statmlut/people?authuser=0), The University of Texas at Austin.
 
