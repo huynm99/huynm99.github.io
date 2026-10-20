@@ -36,6 +36,9 @@ redirect_from:
 - [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850). ICLR, 2024 <br/>
 *__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
 
+- [Sparsity Saves Compute, Not Samples: Oracle Inequalities for Dense and Sparse Mixture of Experts](https://arxiv.org/abs/2610.15039). Under review, 2026 <br/>
+*Sagar Ghosh, __Huy Nguyen__, Alessandro Rinaldo*<br/>
+
 - [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188). ICML, 2024 <br/>
 *__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
 
@@ -84,7 +87,7 @@ redirect_from:
 ](https://arxiv.org/abs/2609.16622). Under review, 2026 <br/>
 *Dung Le\*, __Huy Nguyen\*__, Trang Pham, Alessandro Rinaldo, Nhat Ho*<br/>
 
-- [Joint Estimation and Feature Selection in Overspecified Finite Mixture of Regressions](). Under review, 2026 <br/>
+- [Joint Estimation and Feature Selection in Overspecified Finite Mixture of Regressions](https://arxiv.org/abs/2610.22851). Under review, 2026 <br/>
 *Abbas Khalili\*, Pengqi Liu\*, __Huy Nguyen\*__, Nhat Ho*<br/>
 
 - [Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808). NeurIPS, 2023 <br/>
@@ -175,7 +178,7 @@ Dung Le\*, <b>Huy Nguyen\*</b>, Trang Pham, Alessandro Rinaldo, Nhat Ho
 **[JS.4]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
 <b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
 
-**[JS.3]** [Joint Estimation and Feature Selection in Overspecified Finite Mixture of Regressions](). Under review, 2026 <br/>
+**[JS.3]** [Joint Estimation and Feature Selection in Overspecified Finite Mixture of Regressions](http://arxiv.org/abs/2610.22851). Under review, 2026 <br/>
 *Abbas Khalili\*, Pengqi Liu\*, __Huy Nguyen\*__, Nhat Ho*<br/>
 
 **[JS.2]** [Quadratic Gating Mixture of Experts: Statistical Insights into Self-Attention](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
@@ -185,6 +188,9 @@ Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 Nicola Bariletto\*, <b>Huy Nguyen\*</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 ## Conference Submissions
+
+**[CS.6]** [Sparsity Saves Compute, Not Samples: Oracle Inequalities for Dense and Sparse Mixture of Experts](https://arxiv.org/abs/2610.15039). Under review, 2026 <br/>
+*Sagar Ghosh, __Huy Nguyen__, Alessandro Rinaldo*<br/>
 
 **[CS.5]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466). *Under review* <br/>
 Tuan Minh Pham\*, Thinh Cao\*, Viet Nguyen\*, <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
