@@ -18,8 +18,52 @@ My research develops **statistical foundations for modern AI**, with a particula
 - **Statistical principles for AI architecture design.** I study how these statistical insights can be translated into architectural principles for modern AI systems. This perspective motivates new designs for sparse MoE, multimodal learning, and attention-based models that aim to improve scalability, specialization and efficiency.
 - **Efficient adaptation of large-scale models.** I investigate how the structure and capacity of lightweight adaptation mechanisms affect the efficiency of adapting large pretrained models. My work focuses on methods such as low-rank adaptation and prompt-based tuning, with an emphasis on their statistical efficiency and principled design.
 
+## Industry Experience
+
+- **Morgan Stanley**, Machine Learning Research --- Summer Associate, Summer 2026.
+- **Microsoft AI** --- Research Intern, Summer 2024.
+
 ## Recent News
 
+<style>
+.recent-news-scroll {
+  max-height: 300px;
+  overflow-y: auto;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid #d5d9dc;
+  border-radius: 6px;
+  scrollbar-gutter: stable;
+}
+.recent-news-scroll:focus {
+  outline: 2px solid #3273a8;
+  outline-offset: 3px;
+}
+.recent-news-scroll > ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+.recent-news-scroll li + li {
+  margin-top: 0.65rem;
+}
+@media print {
+  .recent-news-scroll {
+    max-height: none;
+    overflow: visible;
+    border: 0;
+    padding: 0;
+  }
+  .recent-news-hint {
+    display: none;
+  }
+}
+</style>
+
+<p class="recent-news-hint" id="recent-news-hint"><small>Scroll to see older updates.</small></p>
+
+<div class="recent-news-scroll" role="region" aria-label="Recent news" aria-describedby="recent-news-hint" tabindex="0" markdown="1">
+
+- **[Nov 2026]** Our new paper [*When Does Sparse Routing Help? The Geometry of Expert Separation in Mixture of Experts*](https://arxiv.org/abs/2611.01602) is now available on arXiv.
 - **[Sep 2026]** Our paper [*A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts*](https://arxiv.org/abs/2602.01468) was accepted to NeurIPS 2026.
 - **[Sep 2026]** Our new paper [*Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport*](https://arxiv.org/abs/2609.16622) is available on arXiv.
 - **[Sep 2026]** I was selected as a recipient of the *Outstanding Graduate Research Fellowship* at UT Austin.
@@ -31,11 +75,7 @@ My research develops **statistical foundations for modern AI**, with a particula
 - **[Sep 2025]** Our paper [*On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts*](https://arxiv.org/abs/2505.18455) was accepted to NeurIPS 2025.
 - **[May 2025]** Two papers on parameter-efficient adaptation ([1](https://arxiv.org/abs/2502.03044), [2](https://arxiv.org/abs/2502.03029)) were accepted to ICML 2025.
 
-
-## Industrial Experience
-
-- **Morgan Stanley**, Machine Learning Research --- Summer Associate, Summer 2026.
-- **Microsoft AI** --- Research Intern, Summer 2024.
+</div>
 
 ## Professional Service
 
