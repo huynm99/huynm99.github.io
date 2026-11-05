@@ -180,7 +180,7 @@ redirect_from:
 - [Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936). *Proceedings of the ICLR, 2026* <br/>
   Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Anh Tran, Nhat Ho
 
-#### Preprints and Submissions
+#### Preprints
 
 - [When Does Sparse Routing Help? The Geometry of Expert Separation in Mixture of Experts](https://arxiv.org/abs/2611.01602). *arXiv preprint, 2026*. <br/>
   <b>Huy Nguyen</b>, Dung Le, Alessandro Rinaldo, Nhat Ho
@@ -233,7 +233,7 @@ redirect_from:
 - [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/pdf/2410.12258.pdf). *In AISTATS, 2025*. <br/>
   Fanqi Yan\*, <b>Huy Nguyen\*</b>, Dung Le\*, Pedram Akbarian, Nhat Ho
 
-#### Preprints and Submissions
+#### Preprints
 
 - [On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating](https://arxiv.org/abs/2505.10860). *Under review*. <br/>
   <b>Huy Nguyen</b>, Thong T. Doan, Quang Pham, Nghi D. Q. Bui, Nhat Ho\*\*, Alessandro Rinaldo\*\*
@@ -284,7 +284,7 @@ redirect_from:
 - [Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://openreview.net/forum?id=u3JeFO8G8s). *In ICASSP, 2024*. <br/>
   Dung Le\*, <b>Huy Nguyen\*</b>, Khai Nguyen\*, Trang Nguyen\*, Nhat Ho
 
-#### Preprints and Submissions
+#### Preprints
 
 - [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
   <b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
@@ -332,12 +332,10 @@ redirect_from:
 <details markdown="1">
 <summary><strong>Show all publications</strong></summary>
 
-## Preprints
-
-**[P.1]** [When Does Sparse Routing Help? The Geometry of Expert Separation in Mixture of Experts](https://arxiv.org/abs/2611.01602). *arXiv preprint, 2026*. <br/>
-<b>Huy Nguyen</b>, Dung Le, Alessandro Rinaldo, Nhat Ho
-
 ## Journal Submissions
+
+**[JS.9]** [When Does Sparse Routing Help? The Geometry of Expert Separation in Mixture of Experts](https://arxiv.org/abs/2611.01602). *arXiv preprint, 2026*. <br/>
+<b>Huy Nguyen</b>, Dung Le, Alessandro Rinaldo, Nhat Ho
 
 **[JS.8]** [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/abs/2606.16179). *Under review*. <br/>
 <b>Huy Nguyen\*</b>, Dung Le\*, Alessandro Rinaldo, Nhat Ho
