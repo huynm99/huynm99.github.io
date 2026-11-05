@@ -164,9 +164,9 @@ redirect_from:
 <details markdown="1">
 <summary><strong>Show all publications by year</strong></summary>
 
-Published papers are grouped by publication year; preprints and submissions are grouped by their first arXiv posting year. Forthcoming books are listed by their announced publication year.
-
 ### 2026
+
+#### Publications
 
 - [Convergence Rates for Softmax Gating Mixture of Experts](https://ieeexplore.ieee.org/document/11311504). *IEEE Transactions on Information Theory 72(2), 1276-1304, 2026*. <br/>
   <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
@@ -213,6 +213,8 @@ Published papers are grouped by publication year; preprints and submissions are 
 
 ### 2025
 
+#### Publications
+
 - [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://arxiv.org/abs/2505.18455). *Advances in NeurIPS, 2025* <br/>
   Fanqi Yan\*, <b>Huy Nguyen\*</b>, Dung Le\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
@@ -249,6 +251,8 @@ Published papers are grouped by publication year; preprints and submissions are 
   Nam V. Nguyen, <b>Huy Nguyen</b>, Quang Pham, Van Nguyen, Savitha Ramasamy, Nhat Ho
 
 ### 2024
+
+#### Publications
 
 - [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/pdf/2405.13997.pdf). *Advances in NeurIPS, 2024*. <br/>
   <b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
@@ -290,6 +294,8 @@ Published papers are grouped by publication year; preprints and submissions are 
 
 ### 2023
 
+#### Publications
+
 - [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/pdf/2305.03288.pdf). *Advances in NeurIPS, 2023* <span style="color:red"> **(Spotlight)** </span>. <br/>
   <b>Huy Nguyen</b>, TrungTin Nguyen, Nhat Ho
 
@@ -301,6 +307,8 @@ Published papers are grouped by publication year; preprints and submissions are 
 
 ### 2022
 
+#### Publications
+
 - [Entropic Gromov-Wasserstein between Gaussian Distributions](https://proceedings.mlr.press/v162/le22a.html). *Proceedings of the ICML, 2022*. <br/>
   <b>Huy Nguyen\*</b>, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho
 
@@ -308,6 +316,8 @@ Published papers are grouped by publication year; preprints and submissions are 
   <b>Huy Nguyen\*</b>, Khang Le\*, Khai Nguyen, Tung Pham, Nhat Ho
 
 ### 2021
+
+#### Publications
 
 - [EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data](https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346). *Information Sciences, Volume 567, August 2021, Pages 1-22*. <br/>
   Thu Nguyen, Duy H. M. Nguyen, <b>Huy Nguyen</b>, Binh T. Nguyen, Bruce A. Wade.
