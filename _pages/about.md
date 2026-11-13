@@ -86,7 +86,7 @@ My research develops **statistical foundations for modern AI**, with a particula
 
 ## Visitors
 
-<div class="homepage-visitor-map" style="width: 100%; max-width: 700px; margin: 0 auto;" role="region" aria-label="Homepage visitor map and pageview count">
+<div class="homepage-visitor-map" style="width: 100%; max-width: 350px; margin: 0 auto;" role="region" aria-label="Homepage visitor map and pageview count">
   <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=ANjKo8tCUIVuLyqM-OYBbrFrnCKEV-HsK5RyT4UtEWY&amp;cl=ffffff&amp;w=a"></script>
   <noscript>
     <a href="https://mapmyvisitors.com/web/1c9gx" title="View homepage visitor statistics">
