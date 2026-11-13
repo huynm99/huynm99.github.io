@@ -84,5 +84,13 @@ My research develops **statistical foundations for modern AI**, with a particula
 - **Journal Reviewer:** *Journal of Machine Learning Research (JMLR)*, *Electronic Journal of Statistics (EJS)*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, *Transactions on Machine Learning Research (TMLR)*.
 - **Seminar Co-organizer:** [StatML@UT](https://sites.google.com/view/statmlut/people?authuser=0), The University of Texas at Austin.
 
+## Visitors
 
-
+<div class="homepage-visitor-map" style="width: 100%; max-width: 700px; margin: 0 auto;" role="region" aria-label="Homepage visitor map and pageview count">
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=ANjKo8tCUIVuLyqM-OYBbrFrnCKEV-HsK5RyT4UtEWY&amp;cl=ffffff&amp;w=a"></script>
+  <noscript>
+    <a href="https://mapmyvisitors.com/web/1c9gx" title="View homepage visitor statistics">
+      <img src="https://mapmyvisitors.com/map.png?d=ANjKo8tCUIVuLyqM-OYBbrFrnCKEV-HsK5RyT4UtEWY&amp;cl=ffffff" alt="World map of homepage visitors" style="max-width: 100%; height: auto;" />
+    </a>
+  </noscript>
+</div>
